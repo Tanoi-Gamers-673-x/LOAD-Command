@@ -8,14 +8,13 @@ import time
 os.system("figlet Tanoi Gamers")
 print
 A = """\033[35m
-print
 ###########################
 #Craetor     : Tanoi Gamers.
-#Codename    : HT-01
-#Version     : 0.1
+#Codename    : LC-03
+#Version     : 0.3
 #Program     : Python
-#Github      : https://github.com/Tanoi-Gamers->
-#Youtube     : https://www.youtube.com/channel/>
+#Github      : https://github.com/Tanoi-Gamers-673-x
+#Youtube     : https://www.youtube.com/channel/UCBbXzLM6IgJHxeMHl
 ###########################
 """
 print (A)
