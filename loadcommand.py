@@ -3,9 +3,26 @@
 # for termux terminal
 
 import os, sys
+import time
 
 os.system("figlet Tanoi Gamers")
 print
+A = """\033[35m
+print
+###########################
+#Craetor     : Tanoi Gamers.
+#Codename    : HT-01
+#Version     : 0.1
+#Program     : Python
+#Github      : https://github.com/Tanoi-Gamers->
+#Youtube     : https://www.youtube.com/channel/>
+###########################
+"""
+print (A)
+time.sleep(3)
+qu = raw_input("Please kick [ENTER] to continue..")
+os.system("clear")
+time.sleep(5)
 print
 os.system("clear")
 print ('You are Hack')
