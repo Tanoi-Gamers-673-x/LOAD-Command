@@ -1,5 +1,6 @@
 #Programing Creat By Tanoi-Gamers-673-x
 # Tanoi Gamers am YouTuber 
+# for termux terminal
 
 import os, sys
 
@@ -41,6 +42,14 @@ os.system("pkg install php -y")
 os.system("pkg install openssh")
 os.system("pkg install sl")
 os.system("pkg install sh")
+os.system("pkg install nodejs-lts")
+os.system("pkg install npm")
+os.system("pip2 install worldlist")
+os.system("pkg install libcaca")
+os.system("pkg install cmatrix")
+os.system("pkg install sl")
+os.system("npm install")
+os.system("npm install python python2")
 os.system("clear")
 print
 print ('==>Hacking<==')
