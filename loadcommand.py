@@ -10,7 +10,7 @@ os.system("figlet Tanoi Gamers")
 print
 A = """\033[35m
 ###########################
-#Craetor     : Tanoi Gamers.
+#Craetor     : APT 2600
 #Codename    : LC-03
 #Version     : 0.3
 #Program     : Python
