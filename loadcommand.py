@@ -71,7 +71,7 @@ os.system("clear")
 print
 print ('==>Hacking<==')
 print
-print " \033[1m\033[32m Programming By Tanoi Gamers"
+print " \033[1m\033[32m Programming By APT 2600"
 print
 print "\033[0m"
 A = raw_input("like /or\ don't like : ")
