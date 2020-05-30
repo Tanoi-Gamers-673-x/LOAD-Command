@@ -1,5 +1,5 @@
-#Programing Creat By Tanoi-Gamers-673-x
-# Tanoi Gamers am YouTuber 
+#Programing Creat By APT2600
+# APT2600 am YouTuber 
 # for termux terminal
 
 import os, sys
@@ -81,9 +81,9 @@ os.system ("cal")
 os.system("clear")
 os.system("date")
 print
-os.system("figlet Tanoi Gamers |lolcat")
+os.system("figlet APT 2600 |lolcat")
 print 
 print
-print "\033[1m\033[32m Python Programing By Tanoi Gamers"
+print "\033[1m\033[32m Python Programing By APT 2600"
 print
 print
