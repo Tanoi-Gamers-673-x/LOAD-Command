@@ -6,7 +6,7 @@ import os, sys
 import time
 
 os.system("clear")
-os.system("figlet Tanoi Gamers")
+os.system("figlet LOAD-Command")
 print
 A = """\033[35m
 ###########################
